@@ -1,7 +1,10 @@
 ### Hi there, my name is Ralph 👋
 
 - I'm a Software Engineer iOS at adidas runtastic
-- Currently learining SwiftUI and Combine
+
+🔭 I’m currently working on a small COVID tracker for Austria
+🌱 Currently learning SwiftUI and Combine
+📫 How to reach me: @Ralph_Schn on Twitter
 <!--
 **Ralph1300/Ralph1300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
