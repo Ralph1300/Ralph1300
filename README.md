@@ -1,10 +1,6 @@
 ### Hi there, my name is Ralph 👋
 
-- I'm a Software Engineer iOS at adidas runtastic
-
-- 🔭 I’m currently working on a small COVID tracker for Austria
-
-- 🌱 Currently learning SwiftUI and Combine
+- I'm a Senior Software Engineer & Engineering Manager at adidas runtastic
 
 - 📫 How to reach me: @Ralph_Schn on Twitter
 
